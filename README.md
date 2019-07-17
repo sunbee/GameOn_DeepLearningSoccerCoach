@@ -1,6 +1,8 @@
 # Improving Deep Learning with Hyperparameter Tuning 
 ## This notebook presents regularization and supplemental approaches like initialization that are proven to improve the predictive accuracy of models in Deep Learning.The AI Soccer Coach's accuracy improves to 95%!
 
+<img width="975" alt="decisionBoundaryRegularization" src="https://user-images.githubusercontent.com/5471571/61350167-4ae41600-a82c-11e9-85ac-2474319ebd05.png">
+
 What to use this notebook for:
 - Access regularization techiques such as L1, L2 and dropout to improve predictive accuracy.
 - Develop intuition for how regularization works in order to apply it successfully.
